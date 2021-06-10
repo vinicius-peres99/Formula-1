@@ -5,21 +5,11 @@
 <ul>
     <li>Universidade Nove de Julho - Vergueiro;</li>
     <li>Curso: Ciência da Computação;</li>
+    <li>Turma: T-44 | 5° Semestre - 2021</li>
     <li>Professor: José Eduardo Storopoli.</li>
  
 </ul>
  
-<h2> Integrantes: </h2>
- 
-<ul>
-    <li>CARLA LEAL PEREIRA - RA 1419104935;</li>
-    <li>KAUÃ SOTTO CASSEMIRO - RA 419110320;</li>
-    <li>JONATHAN PEREIRA DA SILVA - RA 419108320;</li>
-    <li>MARCOS VINICIUS DA SILVA MOREIRA - RA 419104546;</li>
-    <li>PHELIPE DOS SANTOS SOUSA - RA 419110377;</li>
-    <li>VINICIUS FIGUEIREDO PERES - RA 419103776</li>
- 
-</ul>
  
  <h2> Requisito para elaboração do trabalho: </h2>
 
