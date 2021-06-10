@@ -1,6 +1,6 @@
-#Formula 1
+# Formula 1
  
-##Projeto de Conclusão de Curso(Ciência de Dados)
+## Projeto de Conclusão de Curso(Ciência de Dados)
  
 <ul>
     <li>Universidade Nove de Julho - Vergueiro;</li>
