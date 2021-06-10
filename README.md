@@ -21,8 +21,8 @@
  
 </ul>
  
- 
-### O que tinha que ser feito
+ <h2> Requisito para elaboração do trabalho: </h2>
+
  
 1. Leitura de dados com pandas;
 2. Manipulação e limpeza de dados com pandas;
