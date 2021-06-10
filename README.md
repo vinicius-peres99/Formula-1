@@ -1,6 +1,6 @@
-# Formula 1
+<h1> Tema: Formula 1 </h1>
  
-## Projeto de Conclusão de Curso(Ciência de Dados)
+<h2> Projeto de Conclusão de Curso(Ciência de Dados) </h2>
  
 <ul>
     <li>Universidade Nove de Julho - Vergueiro;</li>
@@ -9,7 +9,7 @@
  
 </ul>
  
-### Integrantes :
+<h2> Integrantes: </h2>
  
 <ul>
     <li>CARLA LEAL PEREIRA - RA 1419104935;</li>
@@ -22,7 +22,7 @@
 </ul>
  
  
-### O que tinha que ser feito:  
+### O que tinha que ser feito
  
 1. Leitura de dados com pandas;
 2. Manipulação e limpeza de dados com pandas;
